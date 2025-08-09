@@ -1,0 +1,12 @@
+# 로그 파일
+*.log
+
+# 빌드 폴더
+/dist
+
+# 환경 변수 파일
+.env
+
+# OS 임시 파일
+.DS_Store
+Thumbs.db
